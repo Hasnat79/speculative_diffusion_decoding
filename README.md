@@ -1,0 +1,2 @@
+# speculative_diffusion_decoding
+Minimal Implementation of speculative diffusion decoding
